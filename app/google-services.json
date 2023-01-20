@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268998431037",
+    "project_id": "advertcrud",
+    "storage_bucket": "advertcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268998431037:android:95a0e6c4f72fa7f110b554",
+        "android_client_info": {
+          "package_name": "com.example.advertcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268998431037-1i05fbtao3c58k1b4h00ntuoec4qlp2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe8nugjn1HLewk5FgZDHwqZVEz24jq5J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268998431037-1i05fbtao3c58k1b4h00ntuoec4qlp2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
